@@ -1,0 +1,8 @@
+.search-filter{
+    padding: 10px;
+    background-color: #fff;
+}
+
+.MuiInput-underline:before {
+    display:none;
+}
