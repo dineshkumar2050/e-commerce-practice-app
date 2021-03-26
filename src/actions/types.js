@@ -1,0 +1,6 @@
+export const PRODUCTS = 'PRODUCTS';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const PAGINATED_PRODUCTS = 'PAGINATED_PRODUCTS';
+export const GET_CART_DATA = 'GET_CART_DATA';
+export const ADD_CART_DATA = 'ADD_CART_DATA';

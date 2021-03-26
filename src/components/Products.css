@@ -1,0 +1,23 @@
+.products-data{
+    height:calc(100% - var(--headerHeight) - var(--filterHeight) - 40px);
+    overflow-y:scroll;
+}
+
+.products{
+    height:100%;
+}
+
+.content{
+    padding:20px 15px;
+    display:grid;
+    grid-template-columns:1fr 1fr ;
+    grid-gap:15px;
+    grid-template-rows: auto;
+}
+
+.outer-div{
+    height:40px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+}
